@@ -1,0 +1,26 @@
+output_dir: journal
+timezone: Asia/Seoul
+languages:
+- code: en
+  name: English
+  enabled: true
+- code: de
+  name: German
+  enabled: true
+- code: fr
+  name: French
+  enabled: true
+- code: ja
+  name: Japanese
+  enabled: false
+- code: ru
+  name: Russian
+  enabled: false
+model_primary: gpt-5
+model_fallbacks:
+- gpt-4.1
+- gpt-4o-mini
+tone:
+  counselor_style: philosophical counselor; existential and meaning-centered; clear,
+    concrete, non-therapeutic.
+  translation_style: faithful, clear, natural; preserve core terminology; avoid over-simplification.

@@ -1,0 +1,32 @@
+11/Sep/2025
+
+1. ChatGPT doesn't merely translate its answer from English into another language. 
+1.1. There are different corpora, and each corpus has its unique cultural context. 
+1.2. For instance, when I query the same question in different languages, the answers are also different from each other.
+
+2. Philosophical, existential therapy is very helpful for my mental health. 
+2.1. The other options, such as humanistic counseling, were ineffective for my case.
+2.2. Immigration isn't just about visas, language ability, and location. It's also about social integration and identity. Therefore, developing methods to keep a healthy mentality is also integral. 
+
+3. I developed an existential therapy program using OpenAI API with ChatGPT.
+3.1. It translates the original English question to other languages automatically, asks each corpus, and translates the answers back to English.
+3.2. The questioner can receive different versions of answers. 
+3.3. It's only $0.12 per question(using GPT version 5).
+3.4. As I have tested this program so far, French answers were the best fit for me.
+
+4. Possible follow-up actions.
+4.1. In most cases, read and apply the greatest answer among them. 
+4.2. However, that answer doesn't feel enough because it's an LLM-powered answer by a machine. So, in this case, there are four follow-up options:
+4.2.1. Find an online therapist - they usually offer their one-hour therapy session on an online platform such as Betterhelp and Upwork. It doesn't need to be a face-to-face Zoom session. If I already have an insight, then around two sessions are usually enough. 
+4.2.2. Find a German existential psychotherapist in Germany and online. Germany(and D-A-CH) is also famous for existential therapy(Viktor Frankl), so there are more options available if I prefer existential therapy over popular humanistic sessions. 
+4.2.2.1. If they can offer an English session, then there's no further consideration except costs. 
+4.2.2.2. If they can't offer an English session, then ask them if their service is also available via email. If so, then translate my email from English to German. 
+4.2.2.3. If they can offer an online session, there are many options available - nothing to consider except costs.
+4.2.3. Find a Korean therapist online. No language barrier is a big advantage, and it's also relatively affordable than EU therapists. However, the drawback is that they're usually saturated with Korean local culture.
+4.2.4. Find a philosophy tutor in Preply. It's not a therapy session, but it's very affordable. If the only part that a human makes up for is additional resources and philosophical insights, then it's a great option.
+
+5. Conclusion.
+5.1. It was a very good idea to build such a therapy pipeline. It's very suitable for my personality and situation. 
+5.2. The whole cost is unbelievably cheap, using this pipeline. 
+5.3. After reading the LLM-powered answers, I can also find additional materials online.
+5.4. It reduces expensive human therapy sessions, and it's even better for me, who needs information, than just needing a fellow human whom I can confide in.
